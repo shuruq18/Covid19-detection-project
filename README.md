@@ -28,7 +28,7 @@ The workflow covers the full pipeline:
 | `Covid_19_detection_proj.ipynb` | Main notebook: data preprocessing, model training, evaluation, and exporting the trained artifacts |
 | `streamlit_covid (1).py` | Streamlit web app that loads the saved model and serves an interactive symptom-checker UI |
 | `README.md` | Project documentation (this file) |
-| `Classwork for ML for Bioinformatics School _ Feb. 2026 - Classroom.pdf` | Supporting classwork/assignment material |
+
 
 ---
 
